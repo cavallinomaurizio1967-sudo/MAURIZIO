@@ -1,0 +1,5 @@
+{
+  "name": "Gestione Turni Maurizio",
+  "description": "Un'applicazione mobile-first per la gestione dei turni di lavoro, progettata con un look nativo Android. Include l'inserimento dei turni tramite linguaggio naturale con Gemini, calendario mensile, categorizzazione dettagliata e statistiche.",
+  "requestFramePermissions": []
+}
